@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+
+# Geheimnisse und lokale Einstellungen
+.env
+
+# Datenbanken und erzeugte Dateien
+*.sqlite
+*.sqlite3
+data/
+weather.json
+*.csv
+
+# Editor / System
+.DS_Store
+.idea/
+.vscode/
