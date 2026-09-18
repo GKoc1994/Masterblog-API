@@ -1,7 +1,7 @@
 # 17 – Masterblog API
 
 ## Aufgabe
-Der Blog wird zu einer **REST-API**: Das Backend (Flask, Port 5002) liefert
+Der Blog wird zu einer **EST-API**: Das Backend (Flask, Port 5002) liefert
 und verändert Beiträge als JSON. Ein getrenntes Frontend (Port 5001) ruft die
 API mit JavaScript (`fetch`) auf. Die API ist mit **Swagger** dokumentiert.
 
