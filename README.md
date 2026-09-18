@@ -22,7 +22,7 @@ API mit JavaScript (`fetch`) auf. Die API ist mit **Swagger** dokumentiert.
 | GET | `/api/docs` | Swagger-Oberfläche | – |
 
 ## Wichtige Fachbegriffe
-- **REST-API:** Ressourcen (hier: Posts) haben eine URL, die HTTP-Methode
+- **EST-API:** Ressourcen (hier: Posts) haben eine URL, die HTTP-Methode
   sagt, was passieren soll (GET lesen, POST anlegen, PUT ändern, DELETE löschen).
 - **Statuscodes:** 201 = angelegt, 400 = fehlerhafte Anfrage, 404 = nicht gefunden.
 - **`jsonify` / `request.get_json()`:** Python-Daten als JSON senden bzw.
